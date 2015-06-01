@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patents>
+    <Patent Number="6510817">
+        <AppNumber>09/866,407</AppNumber>
+        <Description>Mouse and Cheese Cat Toy</Description>
+        <FilingDate>2001-05-25</FilingDate>
+        <Inventor>Tibor Horvath</Inventor>
+        <Inventor2 />
+    </Patent>
+    <Patent Number="8945905">
+        <AppNumber>13/179,447</AppNumber>
+        <Description>Cat Litter Formulation</Description>
+        <FilingDate>2011-07-08</FilingDate>
+        <Inventor>Russell L. Brandt</Inventor>
+        <Inventor2>Elizabeth A. Battilana</Inventor2>
+    </Patent>
+    <Patent Number="5443036">
+        <AppNumber>08/144,473</AppNumber>
+        <Description>Method of Exercising a Cat</Description>
+        <FilingDate>1993-11-02</FilingDate>
+        <Inventor>Kevin T. Amiss</Inventor>
+        <Inventor2>Martin H. Abbott</Inventor2>
+    </Patent>
+    <Patent Number="6039628">
+        <AppNumber>08/333,602</AppNumber>
+        <Description>Self-Mobile Cat Toy</Description>
+        <FilingDate>1994-11-02</FilingDate>
+        <Inventor>John H. Kusmiss</Inventor>
+        <Inventor2>Naomi Caryl</Inventor2>
+    </Patent>
+    <Patent Number="5267530">
+        <AppNumber>07/997,766</AppNumber>
+        <Description>Self-Cleaning Cat Litter Box</Description>
+        <FilingDate>1992-12-28</FilingDate>
+        <Inventor>Mark Zamoyski</Inventor>
+        <Inventor2 />
+    </Patent>
+</Patents>

@@ -1,0 +1,13 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\bin\Debug\Haddow_Whitney_Lab1_CP3_XML.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\bin\Debug\Haddow_Whitney_Lab1_CP3_XML.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\bin\Debug\Haddow_Whitney_Lab1_CP3_XML.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.frmAddNew.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.frmPatents.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Haddow_Whitney_Lab1_CP3_XML\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Cat_Patents_XML_to_ListView\Haddow_Whitney_Lab1_CP3_XML\bin\Debug\Haddow_Whitney_Lab1_CP3_XML.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Cat_Patents_XML_to_ListView\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 3\Solutions\Cat_Patents_XML_to_ListView\Haddow_Whitney_Lab1_CP3_XML\obj\Debug\Haddow_Whitney_Lab1_CP3_XML.pdb
